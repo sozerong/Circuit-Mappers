@@ -2,8 +2,7 @@
 <div align="center">
   <img src="https://github.com/sozerong/dataset/blob/main/%EB%A7%A4%ED%8D%BC%EC%8A%A4%EB%A1%9C%EA%B3%A0.png" width=100 height=100 /><br>
   <h3 align="center">Circuit-Mappers</h3>
-  <p align="center">
-    전기 회로도 디지털화 시스템<br>
+  <p align="center">전기 회로도 디지털화 시스템<br>
   </p>
 </div>
 <br>
