@@ -26,7 +26,7 @@
 ## 👨‍👩‍👧‍👧 Team
 | [노영래](https://github.com/sozerong) | [김혜린](https://github.com/wxxnxx) | [황나영](https://github.com/bossna0) | [김지현]() |
 | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: | :----------------------------------------: |
-| Model, PM | Backend Developer | Front Developer | Designer |
+| Model, ProjectManager | Backend Developer | Front Developer | Designer |
 
 
 ## 💡 Tech Stack
